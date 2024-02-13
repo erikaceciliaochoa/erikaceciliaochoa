@@ -27,6 +27,7 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 <!--![](https://img.shields.io/badge/Exp-4+yrs-red)
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
+![age](https://img.shields.io/badge/age-24-blue)
 -->
 
 <!--## Projects that I contributed to
