@@ -7,9 +7,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erikaceciliaochoa@gmail.com)
 ![](https://komarev.com/ghpvc/?username=erikaceciliaochoa&color=7957d5)
 
-### ✨Visitors
-[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
-
 - 💬 Ask me about:
 Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC, and Data Analytics from Coderhouse. With a solid background as a Senior Technician in Programming and Data Analyst, backed by my commitment to technical excellence, I stand out as a versatile professional capable of tackling complex challenges in both the technological and analytical fields. Complementing my experience, my studies in Public Accounting reinforce my ability to offer solutions that combine technical efficiency with a solid financial perspective. With a proactive and meticulous approach, I aspire to apply my experience and skills in programming, data analysis, and accounting to contribute to the success of projects and teams in dynamic professional environments. 
 
@@ -28,10 +25,8 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 ⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
 
 <!--![](https://img.shields.io/badge/Exp-4+yrs-red)
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PackageTemplate&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+### ✨Visitors
+[![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
 -->
 
 <!--## Projects that I contributed to
