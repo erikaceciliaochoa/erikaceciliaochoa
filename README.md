@@ -21,6 +21,8 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 
+---
+⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
 
 <!--![](https://img.shields.io/badge/Exp-4+yrs-red)
 ### Github Repos
