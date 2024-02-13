@@ -11,7 +11,7 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 
 - ⚡ Fun fact: Data Analysis📊
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/erikaceciliaochoa"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 <!--
