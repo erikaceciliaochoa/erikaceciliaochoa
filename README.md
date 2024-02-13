@@ -22,6 +22,7 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/erikaceciliaochoa/BUET-CSE-Moodle-Web-Scraping) <br />
 -->
 <!--
+![](https://img.shields.io/badge/Exp-4+yrs-red)
 <summary>
   <a href="https://github.com/erikaceciliaochoa"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
