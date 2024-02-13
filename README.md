@@ -17,12 +17,15 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 <img align="left" alt="erikaceciliaochoa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erikaceciliaochoa&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa)](https://github.com/erikaceciliaochoa/github-readme-stats) 
 
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PackageTemplate&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 
 
 <!--![](https://img.shields.io/badge/Exp-4+yrs-red)
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PackageTemplate&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 -->
 
