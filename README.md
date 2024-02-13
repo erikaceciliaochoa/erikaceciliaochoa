@@ -16,9 +16,10 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 <img align="left" alt="erikaceciliaochoa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erikaceciliaochoa&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa)](https://github.com/erikaceciliaochoa/github-readme-stats) 
 
-<!--## Projects that I contributed to-->
 
+<!--## Projects that I contributed to
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/erikaceciliaochoa/BUET-CSE-Moodle-Web-Scraping) <br />
+-->
 <!--
 <summary>
   <a href="https://github.com/erikaceciliaochoa"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
