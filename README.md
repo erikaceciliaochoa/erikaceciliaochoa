@@ -18,10 +18,8 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa)](https://github.com/erikaceciliaochoa/github-readme-stats) 
 
 
-<img alt="erikaceciliaochoa's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 <!--![](https://img.shields.io/badge/Exp-4+yrs-red)
-
 -->
 
 <!--## Projects that I contributed to
