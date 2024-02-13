@@ -13,6 +13,7 @@ Hello, I'm Erika Cecilia Ochoa, a Senior Technician in Programming from UTN-FRC,
 <summary>
   <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
+
 <!--
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=erikaceciliaochoa&show_icons=true&hide_border=true" />
 **erikaceciliaochoa/erikaceciliaochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
