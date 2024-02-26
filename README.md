@@ -10,7 +10,10 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/erikaceciliaochoa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikaceciliaochoa/)
+<!--
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erikaceciliaochoa@gmail.com)
+-->
+[![Mail Badge](https://img.shields.io/badge/-erikaceciliaochoa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:erikaceciliaochoa@gmail.com)](mailto:erikaceciliaochoa@gmail.com)
 ![](https://komarev.com/ghpvc/?username=erikaceciliaochoa&color=7957d5)
 
 - 💬 Ask me about:
