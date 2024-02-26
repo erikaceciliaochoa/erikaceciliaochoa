@@ -30,6 +30,8 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Technician in Programming* 💻👩‍�
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Profile-README-templates&show_owner=true)](https://github.com/erikaceciliaochoa/Profile-README-templates )
+
 ---
 ⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
 
