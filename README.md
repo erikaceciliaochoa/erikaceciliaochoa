@@ -7,7 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Erika+Ochoa..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <code><img title="C" height="25" src="images/c.svg"></code>
+
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/erikaceciliaochoa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikaceciliaochoa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erikaceciliaochoa@gmail.com)
