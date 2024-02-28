@@ -27,7 +27,7 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa)](https://github.com/erikaceciliaochoa/github-readme-stats) 
 -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
