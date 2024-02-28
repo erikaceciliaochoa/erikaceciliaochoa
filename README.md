@@ -2,9 +2,9 @@
 
 ### This is Erika Ochoa!
 -->
-<h1 align="rigth">
+<div align="rigth">
 ![](https://komarev.com/ghpvc/?username=erikaceciliaochoa&color=7957d5)
-</h1>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Erika+Ochoa..;Nice+to+meet+you!&center=true&size=30">
