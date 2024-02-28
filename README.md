@@ -81,13 +81,15 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 ---
 ⭐️ From [erikaceciliaochoa](https://github.com/erikaceciliaochoa)
 
-<!--![](https://img.shields.io/badge/Exp-4+yrs-red)
+<!--
+![](https://img.shields.io/badge/Exp-4+yrs-red)
+![age](https://img.shields.io/badge/age-24-blue)
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/ismlhbb/ismlhbb.svg?cache=remove)](#)
-![age](https://img.shields.io/badge/age-24-blue)
 -->
 
-<!--## Projects that I contributed to
+<!--
+## Projects that I contributed to
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/erikaceciliaochoa/BUET-CSE-Moodle-Web-Scraping) <br />
 -->
 
