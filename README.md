@@ -49,8 +49,11 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erikaceciliaochoa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-### Github Repos
+<h2 align="left">⚡ Github Repos ⚡</h2>
+
 <!--
+### Github Repos
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Profile-README-templates&show_owner=true)](https://github.com/erikaceciliaochoa/Profile-README-templates )
