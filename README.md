@@ -35,7 +35,7 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 -->
 
 <hr>
-<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h4 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
