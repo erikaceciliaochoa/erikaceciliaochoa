@@ -33,7 +33,7 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 <img align="left" alt="erikaceciliaochoa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=erikaceciliaochoa&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaceciliaochoa)](https://github.com/erikaceciliaochoa/github-readme-stats) 
 -->
-
+<!--
 <hr>
 <h3 align="left">⚡ Languages & Frameworks & Tools & Abilities ⚡</h3>
 <br>
@@ -56,7 +56,7 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
 <hr>
-
+-->
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
