@@ -124,7 +124,6 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 -->
 
 <!--
-![](https://img.shields.io/badge/Exp-4+yrs-red)
 <summary>
   <a href="https://github.com/erikaceciliaochoa"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
