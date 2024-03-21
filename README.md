@@ -52,7 +52,7 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/VisualBasic6.0.jpg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Visual Basic 6.0" height="25" src="images/php.svg"></code>
   <code><img title="SQLServer" height="25" src="images/sqlserver.jpg"></code>
   <code><img title="Power Bi" height="25" src="images/powerbi.PNG"></code>
   <code><img title="Microsoft Office(2013-2019)" height="25" src="images/Microsoft_Office_logos_(2013-2019).png"></code>
