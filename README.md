@@ -88,11 +88,11 @@ Hello, I'm **Erika Cecilia Ochoa**, a *Programming Technician* 💻👩‍💼 f
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&show_owner=true)](https://github.com/erikaceciliaochoa/PowerBI-projects )
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Profile-README-templates&show_owner=true)](https://github.com/erikaceciliaochoa/Profile-README-templates )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Python&show_owner=true)](https://github.com/erikaceciliaochoa/Python )
 -->
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/erikaceciliaochoa/PowerBI-projects" title="PowerBI-projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/erikaceciliaochoa/Profile-README-templates" title="Profile-README-templates"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Profile-README-templates&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/erikaceciliaochoa/PowerBI-projects" title="PowerBI-projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=PowerBI-projects&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/erikaceciliaochoa/Python" title="Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=erikaceciliaochoa&repo=Python&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
